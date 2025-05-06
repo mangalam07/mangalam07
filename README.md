@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm [Manglam]</h1>
-<h3 align="center">A passionate [React Native Developer] from [Hyderabad]</h3>
+<h1 align="center">Hi 👋, I'm Manglam</h1>
+<h3 align="center">A passionate React Native Developer from Indore</h3>
 
 - 🔭 I’m currently working on **[Service & Product Apps]**
 - 👯 I’m looking to collaborate on **[Own Products App]**
