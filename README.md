@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
-<h3 align="center">A passionate [Your Role] from [Location]</h3>
+<h1 align="center">Hi 👋, I'm [Manglam]</h1>
+<h3 align="center">A passionate [React Native Developer] from [Hyderabad]</h3>
 
-- 🔭 I’m currently working on **[Project Name]**
+- 🔭 I’m currently working on **[Service & Product Apps]**
 - 🌱 I’m currently learning **[Technology]**
 - 👯 I’m looking to collaborate on **[Topic/Project]**
 - 💬 Ask me about **[Tech Stack or Topics]**
