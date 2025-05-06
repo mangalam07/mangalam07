@@ -1,0 +1,7 @@
+- 👋 Hi, I’m Manglam Sagitra
+- 👀 I’m interested to develop Products based Application
+- 🌱 I’m currently working
+- 💞️ I’m looking to collaborate on Products based Projects
+- 📫 How to reach me @manglam.app
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
