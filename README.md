@@ -2,11 +2,8 @@
 <h3 align="center">A passionate [React Native Developer] from [Hyderabad]</h3>
 
 - 🔭 I’m currently working on **[Service & Product Apps]**
-- 🌱 I’m currently learning **[Technology]**
-- 👯 I’m looking to collaborate on **[Topic/Project]**
-- 💬 Ask me about **[Tech Stack or Topics]**
-- 📫 How to reach me: **[Email or LinkedIn]**
-- ⚡ Fun fact: **[Something interesting]**
+- 👯 I’m looking to collaborate on **[Own Products App]**
+- 📫 How to reach me: **[@manglam.app]**
 
 ### 🛠️ Languages and Tools:
 <p>
